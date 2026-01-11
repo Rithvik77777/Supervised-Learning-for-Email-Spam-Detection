@@ -1,2 +1,2 @@
-# OIBSIP-DS-Task-4
+# Supervised Learning for Email Spam Detection
 Embark on an exciting project to create an email spam detector using the power of Python. This innovative endeavor involves harnessing the potential of machine learning to train the spam detector, enabling it to effectively recognize and classify emails into two distinct categories: spam and non-spam. By delving into Python programming, you can build a robust and efficient spam detection system. Leveraging machine learning techniques, you will train the model to analyze and discern patterns within email data, distinguishing between legitimate communications and intrusive spam.
